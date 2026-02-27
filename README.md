@@ -46,4 +46,13 @@ Retention efforts should focus on:
 - Promoting multi-product adoption  
 - Monitoring middle-aged customer segments
 
+## Dashboard Preview
 
+### Executive Overview
+![Executive Overview](https://raw.githubusercontent.com/worldofchaitanya1/Bank-Churn-Dashboard/main/Bank%20churn%20ph%20(1).png)
+
+### Behavioral Analysis
+![Behavioral Analysis](https://raw.githubusercontent.com/worldofchaitanya1/Bank-Churn-Dashboard/main/Bank%20churn%20ph%20(2).png)
+
+### Segmentation & Recommendations
+![Segmentation](https://raw.githubusercontent.com/worldofchaitanya1/Bank-Churn-Dashboard/main/Bank%20churn%20ph%20(3).png)
